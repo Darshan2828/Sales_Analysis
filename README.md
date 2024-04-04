@@ -4,7 +4,7 @@
 A Sales analysis project that involves the analysis of Key Performance indicators to gain insights and make data-driven decisions for the Superstore. It includes monitoring the Current year sales, Previous year sales, Total Orders, Year over Year growth, Category wise sales, Segment wise sales, Top 5 Selling products, Monthly trend and detailed sales. This sales analysis will help the store to identify the sales trend like which category has highest sales , which segment is performing better so the Superstore Management can maintain the able to deliver the demand of the products ordered by the customers.
 
 ### Dataset
-Superstore Dataset: The primary dataset used for this project is 'Superstore.csv' contains nearly 13,000+ records detailed information about Category, country, city, Customer ID, Sales, Segment, order date,Customer name Etc.
+Superstore Dataset: The primary dataset used for this project is 'Superstore.csv' contains nearly 51,000+ records detailed information about Category, country, city, Customer ID, Sales, Segment, order date,Customer name Etc.
 
 ### Tools Used
 1. Excel- Data Cleaning and transforming
